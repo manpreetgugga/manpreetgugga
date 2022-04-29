@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manpreetgugga
-- 👀 I’m interested in ... IOT, Aurdiuno
-- 🌱 I’m currently learning ... Kotlin
-- 💞️ I’m looking to collaborate on ... IOT, Aurdiuno
+- 👀 I’m interested in ... Android, Java, Kotlin, Raect-Native
+- 🌱 I’m currently learning ... Flutter, Compose UI
+- 💞️ I’m looking to collaborate on ... Any Android App
 - 📫 How to reach me ... manpreet.gugga@gamil.com
 
 ![Visitor Count](https://profile-counter.glitch.me/manpreetgugga/count.svg)
